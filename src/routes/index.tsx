@@ -10,6 +10,8 @@ export default component$(() => {
             <h1>Hi 👋</h1>
             <p>Can't wait to see you when we launch, stay tuned!</p>
             <p>- Team BouwSwap</p>
+            {/* <div class="icon">♻️</div> */}
+            <image src="images/circle.png" alt="" />
         </div>
     )
 })
