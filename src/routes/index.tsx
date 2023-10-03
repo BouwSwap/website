@@ -7,7 +7,7 @@ export default component$(() => {
 
     return (
         <div class="centered">
-            <h1>Hi 👋</h1>
+            <h1>Hi, 👋</h1>
             <p>Can't wait to see you when we launch, stay tuned!</p>
             <p>- Team BouwSwap</p>
             {/* <div class="icon">♻️</div> */}
